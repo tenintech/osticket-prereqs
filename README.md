@@ -2,11 +2,6 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-Deploy and Configure an Internal IT Help Desk System Using osTicket
-
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
 <h1>Lab Objectives</h1>
   
 Deploy a working help desk environment using osTicket on a virtual machine.
@@ -21,11 +16,10 @@ Document the full deployment and configuration process.
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
-- MySQL
+- Internet Information Services (IIS)- Web Sever
+- MySQL Database 
 - Remote Desktop Protocol (RDP)
 - PHP
-- Windows Server 
 
 
 <h2>Operating Systems Used </h2>
@@ -41,12 +35,13 @@ Document the full deployment and configuration process.
 - Item 5
 
 <h2>Installation Steps</h2>
-
+1. Create Virtual Machine in Microsoft Azure on which to install ticketing system 
+2. Install osTicket and it's dependencies from folder containing Installation Files
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Within the virtual machine, I downloaded the required osTicket Installation Files and saved them locally to the desktop. I then extracted the contents into a structured directory named osTicket-Installation-Files, ensuring all required installation dependencies and components were properly organized before application deployment.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
