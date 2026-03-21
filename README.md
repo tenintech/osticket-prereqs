@@ -3,6 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
+Deploy and Configure an Internal IT Help Desk System Using osTicket
+
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
