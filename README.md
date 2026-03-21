@@ -7,16 +7,26 @@ Deploy and Configure an Internal IT Help Desk System Using osTicket
 
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+<h1>Lab Objectives</h1>
+  
+Deploy a working help desk environment using osTicket on a virtual machine.
+Configure a web server and database to support the application.
+Create departments, agents, and user accounts within the ticketing system.
+Simulate real-world IT support tickets and workflow.
+Practice troubleshooting and resolving common IT issues through ticket management.
+Document the full deployment and configuration process.
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- MySQL
+- Remote Desktop Protocol (RDP)
+- PHP
+- Windows Server 
+
 
 <h2>Operating Systems Used </h2>
 
@@ -24,10 +34,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Resource Group
-- Create Virtual Machine to install osTicket 
-- Item 3
-- Item 4
+- Create VM to install osTicket
+- Install Web Server (IIS) 
+- Install Database (MySQL)
+- Deploy OS Ticket 
 - Item 5
 
 <h2>Installation Steps</h2>
