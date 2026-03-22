@@ -15,8 +15,7 @@ Document the full deployment and configuration process.
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)- Web Sever
+- Internet Information Services (IIS)- Web Server
 - MySQL Database 
 - Remote Desktop Protocol (RDP)
 - PHP
@@ -24,7 +23,7 @@ Document the full deployment and configuration process.
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 V@ x64</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
