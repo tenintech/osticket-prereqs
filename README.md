@@ -23,7 +23,7 @@ Document the full deployment and configuration process.
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 V@ x64</b> (22H2)
+- Windows 10 V2 x64</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
