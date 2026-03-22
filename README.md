@@ -37,6 +37,9 @@ Document the full deployment and configuration process.
 <h2>Installation Steps</h2>
 1. Create Virtual Machine in Microsoft Azure on which to install ticketing system 
 2. Install osTicket and it's dependencies from folder containing Installation Files
+Configure IIS 
+Register PHP making web server aware that PHP is on the computer 
+Extract osTicket folder and copy into the root folder of the web server 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
