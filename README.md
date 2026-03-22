@@ -18,7 +18,8 @@ Document the full deployment and configuration process.
 - Internet Information Services (IIS)- Web Server
 - MySQL Database 
 - Remote Desktop Protocol (RDP)
-- PHP
+- PHP - Web Server Language
+- Remote Desktop Connection 
 
 
 <h2>Operating Systems Used </h2>
